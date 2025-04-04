@@ -1,0 +1,49 @@
+- pegue uma garrafa de café;
+- abra a garrafa;
+- vá até a pia da cozinha com a garrafa;
+- verifique se há café dentro da garrafa;
+
+se (houver café dentro da garrafa) {
+
+  - jogue o café dentro da pia;
+
+} se não {
+	
+  - ponha a garrafa debaixo da torneira da pia;
+  - abra a torneira até a garrafa ficar cheia;
+  - pegue uma panela;
+  - despeje a água da garrafa dentro da panela;
+  - pegue a panela e leve-a ao fogão;
+  - ponha a panela na boca do fogo;
+  
+  se(fogão elétrico) {
+
+     - ligue o fogo;
+
+  } se não {
+
+     - pegue uma caixinha de fosforo;
+     - retire um palito de fosforo;
+     - risque o fosforo na caixinha;
+     - abra o gás;
+     - acenda o fogo;
+
+  }
+
+  - espere a água ferver;
+
+  - pegue o pó de café dentro do armário;
+  - pegue um coador;
+  - ponha uma medida de pó dentro do coador;
+  - desligue o fogo;
+  - pegue a panela pela alça;
+  - leve-a até a garrafa;
+  - pegue o coador com a outra mão;
+  - posicione-o a cima da boca da garrafa;
+  - despeje a água no coador;
+  - espere a água ser coada;
+  - coloque o coador vazio dentro da panela;
+  - deixe a panela, com o coador dentro, em cima da pia;
+  - feche a garrafa;
+
+}

@@ -1,0 +1,32 @@
+function meArrumar() {
+  - tomar banho;
+  - escovar os dentes;
+  - trocar de roupa; 
+  - pentear o cabelo;
+}; 
+
+function deslocar() {
+  - vou para o ponto de ônibus;
+  - pego o ônibus;
+  - desço no terminal;
+  - pego outro ônibus;
+  - desço no ponto desejado;
+  - me desloco até o meu destino;
+}
+
+function trabalhar() {
+  - fazer o transporte dos pacientes do hospital até a casa deles;
+}
+
+- acordo;
+- arrumo a cama;
+- meArrumar();
+- tomo café;
+- estudo;
+- meArrumar();
+- deslocar(SENAI);
+- estudo;
+- deslocar(minhaCasa);
+- meArrumar();
+- vou para o trabalho;
+- trabalhar();
